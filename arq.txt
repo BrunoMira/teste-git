@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "outro texto qwdqwd" 
+=======
+"outro texto27" 
+>>>>>>> b24c75fa5f0d628cb513a0cd4b76b4cc3ffd6e38
